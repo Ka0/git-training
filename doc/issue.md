@@ -7,14 +7,14 @@ Issueの作成方法は、[GitHubの公式ドキュメント](https://docs.githu
 
 ### タイトル例
 ```
-`/challecara` エンドポイントを追加する
+`/shu-0-lycoris` エンドポイントを追加する
 ```
 
 ### 本文例
 ```
 ## やりたいこと
-`/challecara` にGetリクエストをすると、 `Hello challecara!` と表示される機能を実装する
+`/shu-0-lycoris` にGetリクエストをすると、 `Hello shu-0-lycoris!` と表示される機能を実装する
 
 ## 期待する動作
-`http://localhost:4567/challecara` にアクセスすると、Webブラウザに `Hello challecara!` と表示される
+`http://localhost:4567/shu-0-lycoris` にアクセスすると、Webブラウザに `Hello shu-0-lycoris!` と表示される
 ```
